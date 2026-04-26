@@ -1,0 +1,10 @@
+fastapi>=0.103.0
+uvicorn>=0.23.2
+pydantic>=2.3.0
+pydantic-settings>=2.0.3
+sqlalchemy>=2.0.20
+alembic>=1.12.0
+psycopg2-binary>=2.9.7
+redis>=5.0.0
+nltk>=3.8.1
+spacy>=3.6.1

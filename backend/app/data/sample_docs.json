@@ -1,0 +1,18 @@
+[
+  {
+    "id": 1,
+    "text": "A search engine is a software system designed to carry out web searches."
+  },
+  {
+    "id": 2,
+    "text": "Search engine optimization significantly improves web visibility."
+  },
+  {
+    "id": 3,
+    "text": "The index mapping term positions helps the search process perform at high speed."
+  },
+  {
+    "id": 4,
+    "text": "Unlike full scan queries, advanced database systems use a specialized B-Tree index."
+  }
+]
